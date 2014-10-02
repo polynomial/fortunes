@@ -1,0 +1,101 @@
+"For a number of years I have been familiar with the observation that the quality of programmers is a decreasing function of the density of go to statements in the programs they produce. More recently I discovered why the use of the go to statement has such disastrous effects, and I became convinced that the go to statement should be abolished from all "higher level" programming languages."
+-- Dijkstra (1968)
+%
+"Our intellectual powers are rather geared to master static relations and that our powers to visualize processes evolving in time are relatively poorly developed. For that reason we should do (as wise programmers aware of our limitations) our utmost to shorten the conceptual gap between the static program and the dynamic process, to make the correspondence between the program (spread out in text space) and the process (spread out in time) as trivial as possible."
+-- Dijkstra (1968)
+%
+"Testing shows the presence, not the absence of bugs"
+-- Dijkstra (1969)
+%
+"A convincing demonstration of correctness being impossible as long as the mechanism is regarded as a black box, our only hope lies in not regarding the mechanism as a black box."
+-- Dijkstra (1970s)
+%
+"When we take the position that it is not only the programmer's responsibility to produce a correct program but also to demonstrate its correctness in a convincing manner, then the above remarks have a profound influence on the programmer's activity: the object he has to produce must be usefully structured."
+-- Dijkstra (1970s)
+%
+"The art of programming is the art of organizing complexity, of mastering multitude and avoiding its bastard chaos as effectively as possible."
+-- Dijkstra (1970s)
+%
+"Program testing can be used to show the presence of bugs, but never to show their absence!"
+-- Dijkstra (1970s)
+%
+"The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility, and among other things he avoids clever tricks like the plague."
+-- Dijkstra (1970s)
+%
+"On Our Inability To Do Much."
+-- Dijkstra (1970s)
+%
+"Please don't fall into the trap of believing that I am terribly dogmatic about [the go to statement]. I have the uncomfortable feeling that others are making a religion out of it, as if the conceptual problems of programming could be solved by a simple trick, by a simple form of coding discipline!"
+-- Dijkstra (1970s)
+%
+"Don't blame me for the fact that competent programming, as I view it as an intellectual possibility, will be too difficult for "the average programmer" — you must not fall into the trap of rejecting a surgical technique because it is beyond the capabilities of the barber in his shop around the corner."
+-- Dijkstra (1970s)
+%
+"Several people have told me that my inability to suffer fools gladly is one of my main weaknesses."
+-- Dijkstra (1970s)
+%
+"Write a paper promising salvation, make it a 'structured' something or a 'virtual' something, or 'abstract', 'distributed' or 'higher-order' or 'applicative' and you can almost be certain of having started a new cult."
+-- Dijkstra (1970s)
+%
+"For me, the first challenge for computing science is to discover how to maintain order in a finite, but very large, discrete universe that is intricately intertwined. And a second, but not less important challenge is how to mould what you have achieved in solving the first problem, into a teachable discipline: it does not suffice to hone your own intellect (that will join you in your grave), you must teach others how to hone theirs. The more you concentrate on these two challenges, the clearer you will see that they are only two sides of the same coin: teaching yourself is discovering what is teachable."
+-- Dijkstra (1970s)
+%
+"We must be very careful when we give advice to younger people: sometimes they follow it!"
+-- Dijkstra (1970s)
+%
+"The major cause [of the software crisis] is that the machines have become several orders of magnitude more powerful! To put it quite bluntly: as long as there were no machines, programming was no problem at all; when we had a few weak computers, programming became a mild problem, and now we have gigantic computers, programming has become an equally gigantic problem. In this sense the electronic industry has not solved a single problem, it has only created them, it has created the problem of using its products."
+-- Dijkstra (1970s)
+%
+"FORTRAN's tragic fate has been its wide acceptance, mentally chaining thousands and thousands of programmers to our past mistakes."
+-- Dijkstra (1970s)
+%
+"LISP has been jokingly described as "the most intelligent way to misuse a computer". I think that description a great compliment because it transmits the full flavor of liberation: it has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts."
+-- Dijkstra (1970s)
+%
+"If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with."
+-- Dijkstra (1970s)
+%
+"The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer."
+-- Dijkstra (1970s)
+%
+"The use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offense."
+-- Dijkstra (1975)
+%
+"In the good old days physicists repeated each other's experiments, just to be sure. Today they stick to FORTRAN, so that they can share each other's programs, bugs included."
+-- Dijkstra (1975)
+%
+"It is practically impossible to teach good programming to students that have had a prior exposure to BASIC: as potential programmers they are mentally mutilated beyond hope of regeneration."
+-- Dijkstra (1975)
+%
+"Simplicity is prerequisite for reliability."
+-- Dijkstra (1975)
+%
+"Programming is one of the most difficult branches of applied mathematics; the poorer mathematicians had better remain pure mathematicians."
+-- Dijkstra (1975)
+%
+"About the use of language: it is impossible to sharpen a pencil with a blunt axe. It is equally vain to try to do it with ten blunt axes instead."
+-- Dijkstra (1975)
+%
+"Thank goodness we don't have only serious problems, but ridiculous ones as well."
+-- Dijkstra (1980s)
+%
+"How do we convince people that in programming simplicity and clarity —in short: what mathematicians call 'elegance'— are not a dispensable luxury, but a crucial matter that decides between success and failure?"
+-- Dijkstra (1980s)
+%
+"The question of whether Machines Can Think... is about as relevant as the question of whether Submarines Can Swim."
+-- Dijkstra (1980s)
+%
+"Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better."
+-- Dijkstra (1980s)
+%
+"Probably I am very naive, but I also think I prefer to remain so, at least for the time being and perhaps for the rest of my life."
+-- Dijkstra (1980s)
+%
+"I mean, if 10 years from now, when you are doing something quick and dirty, you suddenly visualize that I am looking over your shoulders and say to yourself "Dijkstra would not have liked this", well, that would be enough immortality for me."
+-- Dijkstra (1995)
+%
+"Elegance is not a dispensable luxury but a quality that decides between success and failure."
+-- Dijkstra (1990s)
+%
+"Industry suffers from the managerial dogma that for the sake of stability and continuity, the company should be independent of the competence of individual employees. Hence industry rejects any methodological proposal that can be viewed as making intellectual demands on its work force. Since in the US the influence of industry is more pervasive than elsewhere, the above dogma hurts American computing science most. The moral of this sad part of the story is that as long as computing science is not allowed to save the computer industry, we had better see to it that the computer industry does not kill computing science."
+-- Dijkstra (1999)
